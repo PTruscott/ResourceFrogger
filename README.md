@@ -4,3 +4,5 @@ Resource Frogger is a project written in 24h at BrumHack hackathon. Written enti
 ![ScreenShot](https://raw.github.com/ptruscott/ResourceHogger/master/Screenshot - 141215 - 10:44:43.png)
 
 On the left shows which road the data is being pulled from, and top right shows what time and date this representation is using.
+
+Open Transport Network mentioned it in a short article here: http://project.opentransportnet.eu/otn/?q=news-item/otn-unleashes-student-innovation-birmingham-hackathon
